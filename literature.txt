@@ -8,5 +8,4 @@ Emiris (presentation) "Euclidean Embedding of Rigid Graphs" http://www.corelab.n
 Sitharam et al. (presentation) "Nucleation-free 3D rigidity and Nucleation-free 3D rigidity Convex Cayley configuration space" https://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_rigidity/slides/Sitharam2.pdf
 Gao (lecture notes) "Rigidity Theory" http://www3.cs.stonybrook.edu/~jgao/CSE590-fall05/notes/lecture3.pdf
 Grasegger (conference proceedings) "Realizations and Constructions of Minimally Rigid Graphs" http://archive.bridgesmathart.org/2018/bridges2018-539.pdf
-Tay et al. "Generating isostatic frameworks"
-https://upcommons.upc.edu/handle/2099/1047
+Tay et al. "Generating isostatic frameworks" https://upcommons.upc.edu/handle/2099/1047
