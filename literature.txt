@@ -1,8 +1,12 @@
 Whiteley (book chapter) "Chapter 60: RIGIDITY AND SCENE ANALYSIS" https://pdfs.semanticscholar.org/30d9/121f40ac16ff8bd30fd71d26e4c17c31b8da.pdf
 Krick et al. "Stabilization of Infinitesimally Rigid Formations of Multi-Robot Networks" https://www.control.utoronto.ca/~broucke/Webpapers/KriBroFra-CDC08.pdf
 Grasegger et al. "Lower Bounds on the Number of Realizations of Rigid Graphs" https://www.tandfonline.com/doi/pdf/10.1080/10586458.2018.1437851?needAccess=true
+Bartsoz et al. "On the Maximal Number of Real Embeddings of Spatial Minimally Rigid Graphs"
+https://arxiv.org/pdf/1802.05860.pdf (dual to the one above)
 Mantler et al. (proof that minimally rigid graphs in 3D must be at least 5-connected) "Banana Spiders: A Study of Connectivity in 3D Combinatorial Rigidity" https://pdfs.semanticscholar.org/8842/2c0f10c25514d483d52a440ceae4964399ba.pdf
 Emiris (presentation) "Euclidean Embedding of Rigid Graphs" http://www.corelab.ntua.gr/acac10/ACAC2010_Talks/IoannisEmiris.pdf
 Sitharam et al. (presentation) "Nucleation-free 3D rigidity and Nucleation-free 3D rigidity Convex Cayley configuration space" https://www.fields.utoronto.ca/programs/scientific/11-12/discretegeom/wksp_rigidity/slides/Sitharam2.pdf
 Gao (lecture notes) "Rigidity Theory" http://www3.cs.stonybrook.edu/~jgao/CSE590-fall05/notes/lecture3.pdf
 Grasegger (conference proceedings) "Realizations and Constructions of Minimally Rigid Graphs" http://archive.bridgesmathart.org/2018/bridges2018-539.pdf
+Tay et al. "Generating isostatic frameworks"
+https://upcommons.upc.edu/handle/2099/1047
